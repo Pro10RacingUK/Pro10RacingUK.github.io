@@ -8,12 +8,12 @@
 minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
-locale                   : "en"
-title                    : "Site Title"
+locale                   : "en-GB"
+title                    : "Pro10 Racing UK"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : # "Your Name"
+description              : "A simple set of rules to bring together 1/10 pan cars enthusiasts, who want to experience the speed the cars are capable of, how great they look on the track, keeping it simple."
+url                      : "https://pro10racing.co.uk"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -63,14 +63,14 @@ naver-site-verification  :
 twitter:
   username               :
 facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 : # Open Graph/Twitter default site image
+  username               : Pro10RacingUK
+  app_id                 : 932239710262396
+  publisher              : Pro10RacingUK
+og_image                 : "/assets/images/return-of-pro10-c4dc20246b.jpg"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
+  type                   : "Organization"
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
 
@@ -83,10 +83,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : # "Your Name"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : # "I am an amazing person."
+  location         : "United Kingdom"
   email            :
   uri              :
   bitbucket        :
@@ -121,6 +121,8 @@ include:
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
+  - "*.yml"
+  - CNAME
   - vendor
   - .asset-cache
   - .bundle
