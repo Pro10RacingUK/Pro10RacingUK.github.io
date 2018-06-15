@@ -4,30 +4,56 @@ title: "Rules"
 toc: true
 ---
 
-## Construction
+## General Rules
 
-1. Rear wheel drive, rigid axle, direct drive.
-1. Wheelbase: 230mm to 280mm.
-1. Maximum width: 235mm.
-1. Minimum ride height: 3mm.
-1. Minimum weight:
-  - with 1S battery: 930g
-  - with 2S battery: 1150g
+### Construction
 
-## Motor/ESC/Battery
+- Rear wheel drive, rigid axle (no independent rear suspensions), direct drive.
+- Wheelbase: 230mm to 280mm.
+- Maximum width: 235mm.
 
-1. Open ESCs are allowed with the following motors and batteries:
-    1. With a 1S battery, a minimum of 10.5 turns.
-    1. With a 2S battery, a minimum of 17.5 turns.
-1. Approved zero timing ("blinky") ESCs are allowed with the following motors and batteries:
-    1. With a 1S battery, a minimum of 6.5 turns.
-    1. With a 2S battery, a minimum of 13.5 turns.
+### Motor/ESC/Battery
 
-## Tyres
+- Motor, ESC, and battery must be approved by the BRCA.
 
-1. World GT "lilac stripe" control tyres should be used.
+### Bodyshells
 
-## Bodyshells
+- Commercially available body shells in the style of Le Mans Prototype, Group C, GTP, or GT cars are allowed.
 
-1. Commercially available body shells in the style of Le Mans Prototype, Group C, or GT cars are allowed.
-1. So-called "Lola" shells designed for nitro on-road are not permitted.
+## Outdoor Rules
+
+### Construction
+
+- Minimum weight: 1000g.
+
+### Motor/ESC/Battery
+
+- ESC must be used in zero timing (blinky) mode.
+- Motor must have a minimum of 6.5 turns.
+
+### Tyres
+
+- Open tyres.
+
+## Indoor Rules
+
+### Construction
+
+- Minimum ride height: 3mm.
+
+### Motor/ESC/Battery
+
+- Open ESCs are allowed with the following motors and batteries:
+    - With a 1S battery, a minimum of 10.5 turns.
+    - With a 2S battery, a minimum of 17.5 turns.
+- Approved zero timing ("blinky") ESCs are allowed with the following motors and batteries:
+    - With a 1S battery, a minimum of 6.5 turns.
+    - With a 2S battery, a minimum of 13.5 turns.
+
+### Tyres
+
+- World GT "lilac stripe" control tyres should be used.
+
+### Bodyshells
+
+- So-called "Lola" shells designed for nitro on-road (such as the Blitz TS02E) are not permitted.
